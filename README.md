@@ -2,7 +2,7 @@
 
 MovieMate AI is a Flask-based web application that allows users to explore movies, view detailed information, and perform sentiment analysis on movie reviews. It integrates TMDB API for movie data and uses TextBlob and DeepFace for sentiment and emotion analysis.
 
-To set up the project manually, first clone the repository with `git clone https://github.com/yourusername/moviemate-ai.git` and navigate into the folder with `cd moviemate-ai`. Make sure you have Python 3.7 or higher installed on your machine (check with `python --version`). If not installed, download it from [python.org](https://www.python.org/downloads/).
+To set up the project manually, first clone the repository with `(https://github.com/AkashGowda0/Movie-Recommendation-System.git)` and navigate into the folder with `cd Movie-Recommendation-System`. Make sure you have Python 3.7 or higher installed on your machine (check with `python --version`). If not installed, download it from [python.org](https://www.python.org/downloads/).
 
 Install the required Python libraries manually using pip by running the following commands:
 pip install flask
