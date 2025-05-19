@@ -1,4 +1,4 @@
-# MovieMate AI
+# Movie-Recommendation-System
 
 MovieMate AI is a Flask-based web application that allows users to explore movies, view detailed information, and perform sentiment analysis on movie reviews. It integrates TMDB API for movie data and uses TextBlob and DeepFace for sentiment and emotion analysis.
 
