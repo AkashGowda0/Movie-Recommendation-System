@@ -28,6 +28,6 @@ Contributions are welcome! To contribute, fork the repo, create a feature branch
 
 This project is licensed under the MIT License.
 
-For questions or support, open an issue or contact me at your.email@example.com.
+For questions or support, open an issue or contact me at akashgowdacse@gmail.com.
 
 Thank you for using MovieMate AI!
