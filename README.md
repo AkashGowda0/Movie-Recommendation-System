@@ -6,9 +6,13 @@ To set up the project manually, first clone the repository with `git clone https
 
 Install the required Python libraries manually using pip by running the following commands:
 pip install flask
+
 pip install requests
+
 pip install textblob
+
 pip install deepface
+
 
 Alternatively, if a `requirements.txt` file is included, you can run `pip install -r requirements.txt` to install all dependencies at once.
 
